@@ -2,6 +2,13 @@
 
 Generate comprehensive Product Requirements Documents (PRDs) by consulting AI versions of legendary entrepreneurs: Elon Musk, Warren Buffet, Peter Thiel, and Steve Jobs.
 
+![image](https://github.com/user-attachments/assets/0344a214-c939-4849-abe2-b44c4ca93717)
+
+![image](https://github.com/user-attachments/assets/d364cbc9-5553-4372-a7c0-78e1b58b874a)
+
+[![Watch Video](https://img.youtube.com/vi/_jCl0epwl64/0.jpg)](https://www.youtube.com/watch?v=_jCl0epwl64)
+[Watch Video](https://youtu.be/_jCl0epwl64)
+
 ## ✨ Features
 
 - **Multi-Agent Analysis**: Get insights from 4 different business perspectives
